@@ -1,0 +1,7 @@
+.idea/
+blender.log
+buffer.png
+create_dataset_logs*.txt
+boxplots.py
+experimental /*
+*__pycache__*
